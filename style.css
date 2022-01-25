@@ -1,0 +1,36 @@
+.imagen{
+    background-image: url('');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.jumbotron{
+    background-image: URL("https://ep00.epimg.net/elviajero/imagenes/2018/07/06/album/1530866355_987646_1530866905_album_normal.jpg");
+}
+.display-4{
+background-color: rgba(240, 248, 255, 0.596);
+font-family: 'Lobster Two', cursive;
+}
+
+.bac{
+    background-color: rgba(109, 13, 96, 0.719);
+    
+}
+
+.nav-bar {
+    background-color: white;
+    height: 10rem;
+    border: 1px solid black;
+}
+
+.enlaces{
+    display: flex;
+    text-decoration: none;
+}
+
+.iconos{
+    padding-top: 1rem;
+    font-size: 3rem;
+}
